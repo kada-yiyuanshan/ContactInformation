@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+   <student>
+     <firstname>seashell</firstname>
+     <lastname>feng</lastname>
+     <gender>male</gender>
+     <phone>15123454</phone>
+     <Email>fengshizhu@163.com</Email>
+     <address>Suzhou, Ruoshui road</address>
+   </student>
+    <student>
+        <firstname>King</firstname>
+        <lastname>wang</lastname>
+        <gender>male</gender>
+        <phone>32455543</phone>
+        <Email>wei.wang@ksbt.com</Email>
+        <address>Suzhou, Ruoshui road</address>
+    </student>
+    <student>
+        <firstname>near</firstname>
+        <lastname>shan</lastname>
+        <gender>male</gender>
+        <phone>18913162424</phone>
+        <Email>yiyuan.shan@ksbt.com</Email>
+        <address>Suzhou, Ruoshui road</address>
+    </student>
+    <student>
+        <firstname>ting</firstname>
+        <lastname>zhang</lastname>
+        <gender>female</gender>
+        <phone>356778785</phone>
+        <Email>ting.zhang@ksbt.com</Email>
+        <address>Suzhou, Ruoshui road</address>
+    </student>
+    <student>
+        <firstname>yiyuan</firstname>
+        <lastname>shan</lastname>
+        <gender>male</gender>
+        <phone>18913162424</phone>
+        <Email>yiyuan.shan@ksbt.com</Email>
+        <address>Suzhou, Ruoshui road</address>
+    </student>
+    <student>
+        <firstname>wei</firstname>
+        <lastname>wang</lastname>
+        <gender>male</gender>
+        <phone>32455543</phone>
+        <Email>wei.wang@ksbt.com</Email>
+        <address>Suzhou, Ruoshui road</address>
+    </student>
+    <student>
+        <firstname>shizhu1</firstname>
+        <lastname>feng</lastname>
+        <gender>male</gender>
+        <phone>15123454</phone>
+        <Email>fengshizhu@163.com</Email>
+        <address>Suzhou, Ruoshui road</address>
+    </student>
+    <student>
+        <firstname>shizhu2</firstname>
+        <lastname>feng</lastname>
+        <gender>male</gender>
+        <phone>15123454</phone>
+        <Email>fengshizhu@163.com</Email>
+        <address>Suzhou, Ruoshui road</address>
+    </student>
+    <student>
+        <firstname>shizhu3</firstname>
+        <lastname>feng</lastname>
+        <gender>male</gender>
+        <phone>15123454</phone>
+        <Email>fengshizhu@163.com</Email>
+        <address>Suzhou, Ruoshui road</address>
+    </student>
+    <student>
+        <firstname>shizhu4</firstname>
+        <lastname>feng</lastname>
+        <gender>male</gender>
+        <phone>15123454</phone>
+        <Email>fengshizhu@163.com</Email>
+        <address>Suzhou, Ruoshui road</address>
+    </student>
+    
+  
+</root>
